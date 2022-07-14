@@ -117,4 +117,4 @@ Opera GX is the best browser if you have games open and want to browse at the sa
 
 Read here our [complete review of Opera GX](https://github.com/404).
   
-[&larr; Go back to main page](../README.md)
+[&larr; Go back to main page](../README.md)<br><br>

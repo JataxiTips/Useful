@@ -122,5 +122,21 @@ Read here our [complete review of Opera GX](https://github.com/404).
   <img width="720" src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/home/mail-client.webp" /><br>
   <i>"Your browser, your business"</i>
 </p>
+
+**Supported OS:** Windows, macOS, Linux, Android
+
+**Why to go for it:**<br>
+&rarr; Lots of features<br>
+&rarr; Very customizable<br>
+&rarr; Sync with mobile feature<br>
+&rarr; Very good performance<br>
+
+**Why to avoid it:**<br>
+&rarr; No iOS version<br>
+&rarr; Mobile version has way less features than desktop
+
+Vivaldi is a pretty good browser, in my opinion. It has so much features that you don't even need to install extensions; it has an integrated adblocker and even an integrated calendar! You can view multiple tabs at once and it is really good in terms of performance: a pretty good choice if you need a good browser.
+
+Read here our [complete review of Vivaldi](https://github.com/404).
   
 [&larr; Go back to main page](../README.md)<br><br>

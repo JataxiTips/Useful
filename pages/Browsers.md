@@ -10,7 +10,7 @@ Knowing that, we got some browsers for you with pros and cons of using them, tak
 <h1 align="center">1. Google Chrome</h1>
 <p align="center">
   <img src="https://www.google.com/chrome/static/images/homepage/laptop_desktop.png"><br>
-  <i>Common, easy to use and practical</i>
+  <i>"Fast, easy-to-use tools for browsing"</i>
 </p><br><br>
 
 **Supported OS:** Windows, macOS, Linux, Android, iOS<br>
@@ -93,5 +93,28 @@ Read here our [complete review of Microsoft Edge](https://github.com/404).
 This is the browser I most used on my life and I personally love it. It has many features that can be easy to understand, but some of them just are hard to understand what they do. It has a sync feature which is just awesome, it's really useful. It still has some bad points, like the lack of extensions/add-ons, the Shields function can break some websites, and some of the features are still in beta.
 
 Read here our [complete review of Brave](https://github.com/404).
+
+<h1 align="center">5. Opera GX</h1>
+<p align="center">
+  <img width="720" src="https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/hero-bottom/gx/gx__feature-laptop.9059ffda9f2f.png" /><br>
+  <i>"The browser for gamers"</i>
+</p>
+
+**Supported OS:** Windows, macOS, Linux, Android, iOS<br>
+
+**Why to go for it:**<br>
+&rarr; Very good performance<br>
+&rarr; Sync with mobile feature<br>
+&rarr; Integrated adblocker<br>
+&rarr; Very customizable<br>
+&rarr; Good privacy protection<br>
+
+**Why to avoid it:**<br>
+&rarr; Confusing/distracting design<br>
+&rarr; Hard to access some features
+
+Opera GX is the best browser if you have games open and want to browse at the same time. It has a CPU/RAM limiter which does not let the browser use more than the limit you put down there, which is pretty good. The sync feature is kinda messy at the time but the other features like the adblocker and VPN functions are really good.
+
+Read here our [complete review of Opera GX](https://github.com/404).
   
 [&larr; Go back to main page](../README.md)

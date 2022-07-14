@@ -121,5 +121,6 @@ Read here our [complete review of Opera GX](https://github.com/404).
 <p align="center">
   <img width="720" src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/home/mail-client.webp" /><br>
   <i>"Your browser, your business"</i>
+</p>
   
 [&larr; Go back to main page](../README.md)<br><br>

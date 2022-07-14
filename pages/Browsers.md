@@ -71,3 +71,5 @@ Read here our [complete review of Mozilla Firefox](https://github.com/404).
 With a Chrome-like interface and lighter than Chromium itself, Microsoft Edge is really good in terms of performance and the configuration for Privacy and Security tab is good. It has normal functions a browser would have: password managers, adblockers, TTS support, and so on.
 
 Read here our [complete review of Microsoft Edge](https://github.com/404).
+
+[&larr; Go back to main page](../README.md)

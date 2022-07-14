@@ -116,5 +116,10 @@ Read here our [complete review of Brave](https://github.com/404).
 Opera GX is the best browser if you have games open and want to browse at the same time. It has a CPU/RAM limiter which does not let the browser use more than the limit you put down there, which is pretty good. The sync feature is kinda messy at the time but the other features like the adblocker and VPN functions are really good.
 
 Read here our [complete review of Opera GX](https://github.com/404).
+
+<h1 align="center">6. Vivaldi</h1>
+<p align="center">
+  <img width="720" src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/home/mail-client.webp" /><br>
+  <i>"Your browser, your business"</i>
   
 [&larr; Go back to main page](../README.md)<br><br>

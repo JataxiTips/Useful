@@ -72,4 +72,26 @@ With a Chrome-like interface and lighter than Chromium itself, Microsoft Edge is
 
 Read here our [complete review of Microsoft Edge](https://github.com/404).
 
+<h1 align="center">4. Brave</h1>
+<p align="center">
+  <img width="720" src="https://brave.com/static-assets/images/optimized/features/images/Browser-2-1.png" /><br>
+  <i>"Browse privately. Search privately. And ditch Big Tech."</i>
+</p>
+
+**Supported OS:** Windows, macOS, Linux, Android, iOS<br>
+
+**Why to go for it:**<br>
+&rarr; Extremely good performance<br>
+&rarr; Sync with mobile feature<br>
+&rarr; Integrated adblocker<br>
+&rarr; Has a user-friendly interface<br>
+&rarr; Extremely good privacy protection<br>
+
+**Why to avoid it:**<br>
+&rarr; Some features can be hard to understand
+
+This is the browser I most used on my life and I personally love it. It has many features that can be easy to understand, but some of them just are hard to understand what they do. It has a sync feature which is just awesome, it's really useful. It still has some bad points, like the lack of extensions/add-ons, the Shields function can break some websites, and some of the features are still in beta.
+
+Read here our [complete review of Brave](https://github.com/404).
+  
 [&larr; Go back to main page](../README.md)
